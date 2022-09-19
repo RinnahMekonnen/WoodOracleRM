@@ -1,0 +1,41 @@
+The last book I read was "And the Mountains Echoed."
+It is about a poor family in the Middle East who want to
+make a better life for themselved moving to the city. Yet,
+they experience challenges adjusting to city life and the children are
+sadly separated to have a better future.
+
+#10 output of running 'git status' below
+~/WoodOracleRM> git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .idea/.gitignore
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        book.txt
+        properties.txt
+
+ no changes added to commit (use "git add" and/or "git commit -a")
+
+ #17 Append the output of this command as content of the book.txt file.
+ On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   book.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .idea/.gitignore
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.txt
+        properties.txt
