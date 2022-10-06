@@ -1,0 +1,20 @@
+(a) How many commits have been done to the repository? 
+(b) When was the .gitignore file modified last?
+(c) What command(s) could you use to obtain the list of files that were in a repository on a specific date e.g., Files in the repository on 06/01/2020
+(d) How many times were each of the files inside the scr folder modified?
+(e) How many addition operations were involved in the creation of the file RE- MOVE.txt?
+(f) What is the difference between git log and git status?
+(g) What does the command shortlog do?
+(h) Whatcommandwouldyouusetolistthecommitsinwhichthefile“main.java” was part of the committed files?
+(i) Whatcommandwouldyouusetolistthecommitsinwhichthefile“main.java” was part of the committed files, including renames and the diffs of each com- mit?
+(j) What command would you use to list the commits whose commit message contains the word “transaction”?
+(k) What command would you use to see the commits made by an specific person?
+(l) What command would you use to see the commits made by “Lauren” between 01/05/2014 and 06/14/2015?
+38. Commit your changes to the repository.
+
+WRITE A PROGRAM THAT DOES HARDWOOD  
+10,000,000 - 10million 
+if statementless than 7 digit number
+
+do random 9digit=zero
+1mil to ...
