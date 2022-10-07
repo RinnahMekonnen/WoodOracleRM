@@ -1,0 +1,8 @@
+
+
+produce a pdf invoice containing the following data:
+Invoice id, full name of the buyer, address of delivery,
+list of the ordered wood, including BF purchased and its price,
+the estimated delivery time and total price of the purchase.
+
+Belmont University;1900 Belmont Blvd, Nashville, TN 37212;09/20/2022 White Oak:515;Wenge:320

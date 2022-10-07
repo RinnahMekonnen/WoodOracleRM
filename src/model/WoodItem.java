@@ -1,4 +1,14 @@
 package model;
+import org.apache.pdfbox.pdmodel.PDDocument;
+//package SamplePackage;
+//import org.apache.pdfbox.pdmodel;
+import org.apache.pdfbox.pdmodel.PDDocument;
+import org.apache.pdfbox.pdmodel.PDPage;
+import org.apache.pdfbox.pdmodel.PDPageContentStream;
+import org.apache.pdfbox.text.PDFTextStripper;
+import java.io.IOException;
+//import org.apache.pdfbox.pdmodel;
+
 
 /**
  * @author Esteban

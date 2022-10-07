@@ -12,9 +12,22 @@
 (l) What command would you use to see the commits made by “Lauren” between 01/05/2014 and 06/14/2015?
 38. Commit your changes to the repository.
 
-WRITE A PROGRAM THAT DOES HARDWOOD  
-10,000,000 - 10million 
-if statementless than 7 digit number
+a. git log
+b. git checkout 
+c. git log --since='2020-06-01' --until='2010-04-02' or git rev-list --since=<date1>
+d. git diff --cached 
+e. git add 
+f. git log shows the history of the repository while git status shows the current repository 
+g. git shortly gives a summary of the log
 
-do random 9digit=zero
-1mil to ...
+
+
+delivery time = type of wood * amount of it [ price * amount]
+type of wood = has base delivery time
+1st deliver highest overall delivery time
+cherry=5.95
+curly maple=6
+gen mahogany=9.60
+wenge=22.35
+oak=6.70
+saw=1.5
