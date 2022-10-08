@@ -6,7 +6,7 @@
 (f) What is the difference between git log and git status?
 (g) What does the command shortlog do?
 (h) Whatcommandwouldyouusetolistthecommitsinwhichthefile“main.java” was part of the committed files?
-(i) Whatcommandwouldyouusetolistthecommitsinwhichthefile“main.java” was part of the committed files, including renames and the diffs of each com- mit?
+(i) Whatcommandwouldyouusetolistthecommitsinwhichthefile“main.java” was part of the committed files, including renames and the diffs of each commit?
 (j) What command would you use to list the commits whose commit message contains the word “transaction”?
 (k) What command would you use to see the commits made by an specific person?
 (l) What command would you use to see the commits made by “Lauren” between 01/05/2014 and 06/14/2015?
@@ -19,6 +19,10 @@ d. git diff --cached
 e. git add 
 f. git log shows the history of the repository while git status shows the current repository 
 g. git shortly gives a summary of the log
+h. git show main --name-only
+j. git log --grep=transaction
+k. git log -p
+l. git log --since='Jan 5 2014' --until='Jun 14 2015'
 
 
 
